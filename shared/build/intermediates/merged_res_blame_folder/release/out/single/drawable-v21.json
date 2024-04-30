@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.kmmktor.shared-merged_res-25:/drawable-v21/notification_action_background.xml",
+        "source": "com.example.kmmktor.shared-core-1.5.0-7:/drawable-v21/notification_action_background.xml"
+    }
+]

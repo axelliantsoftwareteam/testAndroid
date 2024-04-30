@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.kmmktor.shared-merged_res-25:/layout/custom_dialog.xml",
+        "source": "com.example.kmmktor.shared-core-1.5.0-7:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.example.kmmktor.shared-merged_res-25:/layout/notification_template_part_chronometer.xml",
+        "source": "com.example.kmmktor.shared-core-1.5.0-7:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.example.kmmktor.shared-merged_res-25:/layout/notification_template_part_time.xml",
+        "source": "com.example.kmmktor.shared-core-1.5.0-7:/layout/notification_template_part_time.xml"
+    }
+]
